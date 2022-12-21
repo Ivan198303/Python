@@ -20,7 +20,7 @@
 #     Пример  
 #     - 6,78 -> 7
 #     - 5 -> нет
-#     - 0,34 -> 3
+#     - 0,34 -> 3for
 # n = input()
 # list_num = n.split(".")
 # if len(list_num)>1:

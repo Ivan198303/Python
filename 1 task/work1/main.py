@@ -37,3 +37,14 @@ else:
 # l.count ()# находит количество указанных элементов в списке
 # l.sort ()# сортирует список
 # l.reverse # переворачивает список
+    # перевод из строки на цифры
+    # a = "23.567"
+    # list_num = a.split(".")
+    # print(list_num)
+    # for i in range(len(list_num)):
+    #     list_num[i] = int(list_num[i])
+    # print(list_num)
+        # a = "23.567"
+        # list_num = a.split(".")
+        # list_num=list(map(int,list_num))
+        # print(list_num)
