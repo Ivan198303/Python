@@ -5,9 +5,9 @@
 import random
 n = int(input("Введите число "))
 list = []
-list =[i for i in range(-n ,n+1)]
+list = [i for i in range(-n ,n+1)]
 print(list)
-data = open ('file.txt', 'w')
+data = open('file.txt', 'w')
 data.writelines(str(list))
 data.close()
 random.shuffle(list)
