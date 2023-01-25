@@ -8,7 +8,7 @@
 # 5142233415
 # Также должно работать и для букв:
 # Входные данные:
-# AAAAAAFDDCCCCCCCAEEEEEEEEEEEEEEEEE
+# AAAAAAFDDCCCCCCCAEEEEEEEEEEEEEEEEE b
 # Выходные данные:
 # 6A1F2D7C1A17E
 # (5 - количество единиц, далее сама единица, 4 - количество двоек,
